@@ -7,3 +7,8 @@ E-book created using artificial intelligence tools and PowerPoint for the Santan
 #  🧠 Sugestões
 ChatGPT: 
 #  Prompt utilizado para geração de titulo e subtítulo: Crie um titulo de um ebook sobre o tema de python, o ebook é do nicho de programaçao, o subnincho é de python, o titulo deve ser epico, curto e que tenha uma tematica nerd.
+
+#  Recursos:
+
+Conteúdo gerado via ChatGPT
+Imagens geradas via LeonardoAI
