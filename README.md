@@ -10,5 +10,5 @@ ChatGPT:
 
 #  Recursos:
 
-Conteúdo gerado via ChatGPT
-Imagens geradas via LeonardoAI
+*  Conteúdo gerado via ChatGPT
+*  Imagens geradas via LeonardoAI
